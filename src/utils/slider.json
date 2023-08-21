@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Greenwood Estate",
+    "price": "575,000",
+    "detail": "123 Oak Street, Greenwood Heights. Los Angeles, CA",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Harborview Condos",
+    "price": "420,000",
+    "detail": "456 Main Avenue, Harborview. Miami, FL",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Maplewood Villas",
+    "price": "320,000",
+    "detail": "789 Elm Lane, Maplewood. Chicago, IL",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Greenwood Estate",
+    "price": "575,000",
+    "detail": "123 Oak Street, Greenwood Heights. Los Angeles, CA",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Harborview Condos",
+    "price": "420,000",
+    "detail": "456 Main Avenue, Harborview. Miami, FL",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Maplewood Villas",
+    "price": "320,000",
+    "detail": "789 Elm Lane, Maplewood. Chicago, IL",
+    "image": "./r3.png"
+  }
+]
